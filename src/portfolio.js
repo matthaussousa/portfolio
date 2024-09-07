@@ -26,7 +26,7 @@ const greeting = {
     "A dedicated front-end developer with a laser focus on creating seamless and captivating user experiences. My expertise lies in harnessing the power of React to build dynamic and responsive web applications that leave a lasting impression."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1LScbJAG73SaCqpZDfLPRiQB74uze16MW/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1WDtkF7TNhH-8xF5XGSsw-ZZCzp_oOVvM/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
