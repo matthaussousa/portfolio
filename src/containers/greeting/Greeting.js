@@ -1,13 +1,11 @@
 import React, {useContext} from "react";
 import {Fade} from "react-reveal";
-import helloWorld from "../../assets/lottie/helloWorld.json";
 import Button from "../../components/button/Button";
-import DisplayLottie from "../../components/displayLottie/DisplayLottie";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
 import "./Greeting.scss";
 
 import StyleContext from "../../contexts/StyleContext";
-import {greeting, illustration} from "../../portfolio";
+import {greeting} from "../../portfolio";
 
 export default function Greeting() {
   const {isDark} = useContext(StyleContext);
